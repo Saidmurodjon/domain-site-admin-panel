@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pochtas",
+  "info": {
+    "singularName": "pochta",
+    "pluralName": "pochtas",
+    "displayName": "pochta"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "hajmi": {
+      "type": "integer"
+    },
+    "quti_soni": {
+      "type": "integer"
+    },
+    "narxi": {
+      "type": "integer"
+    }
+  }
+}
