@@ -23,6 +23,9 @@
     },
     "message": {
       "type": "richtext"
+    },
+    "order": {
+      "type": "string"
     }
   }
 }
