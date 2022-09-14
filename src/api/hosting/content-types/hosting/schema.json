@@ -1,0 +1,55 @@
+{
+  "kind": "collectionType",
+  "collectionName": "hostings",
+  "info": {
+    "singularName": "hosting",
+    "pluralName": "hostings",
+    "displayName": "hosting",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "narxi": {
+      "type": "integer"
+    },
+    "hajmi": {
+      "type": "integer"
+    },
+    "domain": {
+      "type": "integer"
+    },
+    "subdomain": {
+      "type": "integer"
+    },
+    "db": {
+      "type": "integer"
+    },
+    "domainuz": {
+      "type": "boolean"
+    },
+    "pochta": {
+      "type": "integer"
+    },
+    "trafik": {
+      "type": "integer"
+    },
+    "backup": {
+      "type": "boolean"
+    },
+    "ftp": {
+      "type": "boolean"
+    },
+    "dns": {
+      "type": "boolean"
+    },
+    "access_log": {
+      "type": "boolean"
+    }
+  }
+}
