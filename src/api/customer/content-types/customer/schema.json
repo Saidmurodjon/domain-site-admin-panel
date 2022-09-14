@@ -20,6 +20,9 @@
     },
     "phone": {
       "type": "string"
+    },
+    "password": {
+      "type": "string"
     }
   }
 }
