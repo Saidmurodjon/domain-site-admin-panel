@@ -25,7 +25,7 @@
       "type": "richtext"
     },
     "order": {
-      "type": "string"
+      "type": "json"
     }
   }
 }
